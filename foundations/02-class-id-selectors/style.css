@@ -1,0 +1,19 @@
+.pinky{
+    background-color: lightcoral;
+    font: Verdana, DejaVu Sans, sans-serif;
+}
+
+.pinky.big{
+ font-size: 24px;   
+}
+
+#id1{
+    color: blue;
+    font-size: 36px;
+}
+
+#id2{
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: bold;
+}
