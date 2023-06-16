@@ -1,0 +1,13 @@
+.botan{
+    background-color: black;
+    color: white;
+}
+
+.botan2{
+    background-color: yellow;
+}
+
+.botan,.botan2{
+    font-size: 28px;
+    font: Helvetica,"Times New Roman",sans-serif;
+}
